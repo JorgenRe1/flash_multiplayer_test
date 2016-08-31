@@ -1,0 +1,7 @@
+{
+  "name": "Filmveksthuset chat",
+  "description": "Chattesystem server",
+  "repository": "https://github.com/JorgenRe1/Chat_server1",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "server", "chat"]
+}
