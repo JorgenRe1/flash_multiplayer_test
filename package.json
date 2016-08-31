@@ -1,0 +1,27 @@
+{
+  "name": "filmveksthuset-chat",
+  "version": "0.0.1",
+  "description": "Chat server",
+  "engines": {
+    "node": "6.2.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JorgenRe1/Chat_server1"
+  },
+  "author": "JorgenRe",
+  "dependencies": {
+    "express": "4.13.4",
+    "socket.io": "1.4.6"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "chat"
+  ],
+  "license": "none"
+}
